@@ -1,6 +1,6 @@
 # 🚀Chat-app
 
-A modern and responsive chat application built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
+A modern and responsive chat application built using **Next.js**, **TypeScript**,**React** and **Tailwind CSS**.
 
 ## 🛠️ Tech Stack
 
