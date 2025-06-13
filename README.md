@@ -10,35 +10,8 @@ A modern and responsive chat application built using **Next.js**, **TypeScript**
 
 ## ⚙️ Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/chat.git
-cd project
 
-Install Dependencies
-bash
-Copy
-Edit
-npm install
-3. Run the Development Server
-bash
-Copy
-Edit
-npm run dev
-App will be running at:
-👉 http://localhost:5173
-
-4. Build for Production
-bash
-Copy
-Edit
-npm run build
-5. Preview the Production Build
-bash
-Copy
-Edit
-npm run preview
 📁 Project Structure
 bash
 Copy
